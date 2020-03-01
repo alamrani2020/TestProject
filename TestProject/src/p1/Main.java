@@ -20,7 +20,7 @@ public class Main {
 			"Employee Status: " + mb.getEmStatus());
 		
 		
-		
+		System.out.println("Write Once Run Any Where!");
 	}
 	
 	}
