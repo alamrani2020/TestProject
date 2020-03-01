@@ -1,8 +1,8 @@
 package p1;
 
 public class MuscatBank {
-	
-	
+
+//Note:	
 	private  int  emId;
 	private  String  emName;
 	private  String  emPosition;
